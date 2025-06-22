@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFood_DuongQuangMinh</string>
+    <string name="foody">Foody</string>
+    <string name="tim_kiem">Tìm kiếm...</string>
+    <string name="banhmi_image">Ảnh bánh mì quán</string>
+    <string name="cart_icon">Biểu tượng giỏ hàng</string>
+    <string name="ten_quan">Quán ăn cô Ba</string>
+    <string name="diachi_sdt">Địa chỉ: hẻm 68 Bùi Thị Xuân, quận Tân Bình, TPHCM\nSố điện thoại: 0631335935</string>
+</resources>
